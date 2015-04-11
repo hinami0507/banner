@@ -1,0 +1,49 @@
+@charset "utf-8";
+.limit
+{
+             width:667px;
+	 margin:auto;
+	 height:211px;
+	 overflow:hidden;
+	 position:relative;
+}
+
+.limit ul
+{
+    height:208px;
+    margin:0px;
+    padding:0px;
+    position:absolute;
+}
+
+.limit ul li
+{
+	list-style-type:none;
+	float:left;
+	display:block;
+}
+
+
+
+.btn
+{
+	opacity:0.7;
+	width:667px;
+	height:20px;
+	background:#676767;
+	position:absolute;
+	bottom:0px;
+	text-align:center;
+}
+
+.btn span
+{
+	opacity:0.7;
+	background:#FFFFFF;
+	width:20px;
+	height:6px;
+	cursor:pointer;
+	display:inline-block;
+	padding:4px 7px;
+            margin-left: 4px;
+}
